@@ -1,0 +1,12 @@
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+# IntelijIdea
+.idea
