@@ -13,7 +13,7 @@
 ```sh
 git clone https://github.com/razuvaevlev/brute-force.git
 cd brute-force
-pip install -r requirements.txt
+pip install requests
 ```
 ## Usage
 ```
